@@ -18,7 +18,7 @@ void main(void) 
 
   FILE * fileptrIn, * fileptrOut;
 
-  char lastnames.datIn[100],out_hashes_SM.datOut[100];
+  char lastnames.datIn[100],out_hashes_hm.datOut[100];
 
   printf("Please enter an input filename (use path if needed):");
 
